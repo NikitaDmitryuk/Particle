@@ -1,0 +1,5 @@
+
+ColloidParticle::ColloidParticle()
+{
+
+}
