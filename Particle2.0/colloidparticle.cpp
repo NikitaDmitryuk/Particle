@@ -1,5 +1,0 @@
-
-ColloidParticle::ColloidParticle()
-{
-
-}
