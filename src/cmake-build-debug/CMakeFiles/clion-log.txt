@@ -1,4 +1,0 @@
-/home/nikita/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/nikita/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/ninja/linux/ninja -G Ninja /home/nikita/Yandex.Disk/My_programm/learningCmake/Particle/src
--- Configuring done
--- Generating done
--- Build files have been written to: /home/nikita/Yandex.Disk/My_programm/learningCmake/Particle/src/cmake-build-debug
