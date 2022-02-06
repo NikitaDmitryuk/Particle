@@ -1,0 +1,3 @@
+/home/nikita/Yandex.Disk/My_programm/learningCmake/Particle/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nikita/Yandex.Disk/My_programm/learningCmake/Particle/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nikita/Yandex.Disk/My_programm/learningCmake/Particle/src/cmake-build-debug/CMakeFiles/src.dir
